@@ -181,3 +181,5 @@ sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
 themediagrid.com, R28I9J, RESELLER, 35d5010d7789b49d
 tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, RESELLER
 video.unrulymedia.com, 819070080, RESELLER
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smaato.com, 1100055750, RESELLER, 07bcf65f187117b4
